@@ -1,0 +1,2 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1912 Summer Olympics,6,/editions/6,1912,Stockholm,https://olympedia-flags.s3.eu-central-1.amazonaws.com/SWE.png,SWE, 6 July,15 July, 5 May – 27 July,

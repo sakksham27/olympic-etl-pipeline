@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1936 Summer Olympics,11,/editions/11,1936,Berlin,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.png,GER, 1 August,16 August,1 – 16 August,
+1936 Winter Olympics,32,/editions/32,1936,Garmisch-Partenkirchen,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.png,GER, 6 February,16 February,6 – 16 February,

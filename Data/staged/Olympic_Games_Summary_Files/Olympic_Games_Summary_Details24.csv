@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1988 Winter Olympics,43,/editions/43,1988,Calgary,https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.png,CAN,13 February,28 February,13 – 28 February,
+1988 Summer Olympics,22,/editions/22,1988,Seoul,https://olympedia-flags.s3.eu-central-1.amazonaws.com/KOR.png,KOR,17 September, 2 October,17 September –  2 October,

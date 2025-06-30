@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1968 Winter Olympics,38,/editions/38,1968,Grenoble,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA, 6 February,18 February,4 – 18 February,
+1968 Summer Olympics,17,/editions/17,1968,Ciudad de México,https://olympedia-flags.s3.eu-central-1.amazonaws.com/MEX.png,MEX,12 October,27 October,12 – 27 October,

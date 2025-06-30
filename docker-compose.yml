@@ -1,0 +1,16 @@
+services: 
+  postgres: 
+    image: postgres:13 # this will pull the postgres image
+    container_name: postgres_olympic_data_warehouse
+    environment:
+      POSTGRES_USER: postgres 
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: Olympic_Data_Warehouse
+    ports: 
+      - "5432:5432"
+    volumes: 
+      - pgdata:/var/lib/postgresql/data 
+      - ./postgres-init-db:/docker-entrypoint-initdb.d
+      
+volumes:
+  pgdata:

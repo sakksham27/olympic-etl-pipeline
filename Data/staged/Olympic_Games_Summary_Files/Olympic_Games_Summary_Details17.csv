@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1960 Winter Olympics,36,/editions/36,1960,Squaw Valley,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,18 February,28 February,19 – 28 February,
+1960 Summer Olympics,15,/editions/15,1960,Roma,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,25 August,11 September,25 August – 11 September,

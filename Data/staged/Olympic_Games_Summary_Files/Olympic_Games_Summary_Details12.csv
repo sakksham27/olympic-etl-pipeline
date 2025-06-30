@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1940 Summer Olympics,51,/editions/51,1940,Helsinki,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FIN.png,FIN,,,—,Not held due to war
+1940 Winter Olympics,55,/editions/55,1940,Garmisch-Partenkirchen,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.png,GER,,,—,Not held due to war

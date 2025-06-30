@@ -1,0 +1,87 @@
+edition,edition_id,year,country,country_noc,gold,silver,bronze,total
+2016 Summer Olympics,59,2016,Thailand,THA,2,2,2,6
+2016 Summer Olympics,59,2016,Belgium,BEL,2,2,2,6
+2016 Summer Olympics,59,2016,Democratic People's Republic of Korea,PRK,2,3,2,7
+2016 Summer Olympics,59,2016,Kazakhstan,KAZ,2,5,10,17
+2016 Summer Olympics,59,2016,Serbia,SRB,2,4,2,8
+2016 Summer Olympics,59,2016,Ukraine,UKR,2,5,4,11
+2016 Summer Olympics,59,2016,South Africa,RSA,2,6,2,10
+2016 Summer Olympics,59,2016,Sweden,SWE,2,6,3,11
+2016 Summer Olympics,59,2016,Poland,POL,2,3,6,11
+2016 Summer Olympics,59,2016,Slovakia,SVK,2,2,0,4
+2016 Summer Olympics,59,2016,Armenia,ARM,1,3,0,4
+2016 Summer Olympics,59,2016,Azerbaijan,AZE,1,7,10,18
+2016 Summer Olympics,59,2016,Belarus,BLR,1,4,4,9
+2016 Summer Olympics,59,2016,Türkiye,TUR,1,3,4,8
+2016 Summer Olympics,59,2016,Czechia,CZE,1,2,7,10
+2016 Summer Olympics,59,2016,Ethiopia,ETH,1,2,5,8
+2016 Summer Olympics,59,2016,Slovenia,SLO,1,2,1,4
+2016 Summer Olympics,59,2016,Indonesia,INA,1,2,0,3
+2016 Summer Olympics,59,2016,Romania,ROU,1,1,2,4
+2016 Summer Olympics,59,2016,Denmark,DEN,2,6,7,15
+2016 Summer Olympics,59,2016,Vietnam,VIE,1,1,0,2
+2016 Summer Olympics,59,2016,Chinese Taipei,TPE,1,0,2,3
+2016 Summer Olympics,59,2016,Georgia,GEO,2,1,4,7
+2016 Summer Olympics,59,2016,Bahrain,BRN,1,1,0,2
+2016 Summer Olympics,59,2016,Kenya,KEN,6,6,1,13
+2016 Summer Olympics,59,2016,Islamic Republic of Iran,IRI,3,1,4,8
+2016 Summer Olympics,59,2016,Côte d'Ivoire,CIV,1,0,1,2
+2016 Summer Olympics,59,2016,United States,USA,46,37,38,121
+2016 Summer Olympics,59,2016,Great Britain,GBR,27,23,17,67
+2016 Summer Olympics,59,2016,People's Republic of China,CHN,26,18,26,70
+2016 Summer Olympics,59,2016,Russian Federation,RUS,19,17,20,56
+2016 Summer Olympics,59,2016,Germany,GER,17,10,15,42
+2016 Summer Olympics,59,2016,Japan,JPN,12,8,21,41
+2016 Summer Olympics,59,2016,France,FRA,10,18,14,42
+2016 Summer Olympics,59,2016,Republic of Korea,KOR,9,3,9,21
+2016 Summer Olympics,59,2016,Italy,ITA,8,12,8,28
+2016 Summer Olympics,59,2016,Australia,AUS,8,11,10,29
+2016 Summer Olympics,59,2016,Netherlands,NED,8,7,4,19
+2016 Summer Olympics,59,2016,Hungary,HUN,8,3,4,15
+2016 Summer Olympics,59,2016,Brazil,BRA,7,6,6,19
+2016 Summer Olympics,59,2016,Spain,ESP,7,4,6,17
+2016 Summer Olympics,59,2016,Jamaica,JAM,6,3,2,11
+2016 Summer Olympics,59,2016,Croatia,CRO,5,3,2,10
+2016 Summer Olympics,59,2016,Cuba,CUB,5,2,4,11
+2016 Summer Olympics,59,2016,New Zealand,NZL,4,9,5,18
+2016 Summer Olympics,59,2016,Canada,CAN,4,3,15,22
+2016 Summer Olympics,59,2016,Uzbekistan,UZB,4,2,7,13
+2016 Summer Olympics,59,2016,Colombia,COL,3,2,3,8
+2016 Summer Olympics,59,2016,Switzerland,SUI,3,2,2,7
+2016 Summer Olympics,59,2016,Greece,GRE,3,1,2,6
+2016 Summer Olympics,59,2016,Independent Olympic Athletes,IOA,1,0,1,2
+2016 Summer Olympics,59,2016,Argentina,ARG,3,1,0,4
+2016 Summer Olympics,59,2016,Fiji,FIJ,1,0,0,1
+2016 Summer Olympics,59,2016,Norway,NOR,0,0,4,4
+2016 Summer Olympics,59,2016,Egypt,EGY,0,0,3,3
+2016 Summer Olympics,59,2016,Tunisia,TUN,0,0,3,3
+2016 Summer Olympics,59,2016,Israel,ISR,0,0,2,2
+2016 Summer Olympics,59,2016,Austria,AUT,0,0,1,1
+2016 Summer Olympics,59,2016,Dominican Republic,DOM,0,0,1,1
+2016 Summer Olympics,59,2016,Qatar,QAT,0,1,0,1
+2016 Summer Olympics,59,2016,Estonia,EST,0,0,1,1
+2016 Summer Olympics,59,2016,Morocco,MAR,0,0,1,1
+2016 Summer Olympics,59,2016,Nigeria,NGR,0,0,1,1
+2016 Summer Olympics,59,2016,Portugal,POR,0,0,1,1
+2016 Summer Olympics,59,2016,Trinidad and Tobago,TTO,0,0,1,1
+2016 Summer Olympics,59,2016,United Arab Emirates,UAE,0,0,1,1
+2016 Summer Olympics,59,2016,The Bahamas,BAH,1,0,1,2
+2016 Summer Olympics,59,2016,Finland,FIN,0,0,1,1
+2016 Summer Olympics,59,2016,Philippines,PHI,0,1,0,1
+2016 Summer Olympics,59,2016,Malaysia,MAS,0,4,1,5
+2016 Summer Olympics,59,2016,Grenada,GRN,0,1,0,1
+2016 Summer Olympics,59,2016,Jordan,JOR,1,0,0,1
+2016 Summer Olympics,59,2016,Niger,NIG,0,1,0,1
+2016 Summer Olympics,59,2016,Puerto Rico,PUR,1,0,0,1
+2016 Summer Olympics,59,2016,Singapore,SGP,1,0,0,1
+2016 Summer Olympics,59,2016,Tajikistan,TJK,1,0,0,1
+2016 Summer Olympics,59,2016,Mexico,MEX,0,3,2,5
+2016 Summer Olympics,59,2016,Venezuela,VEN,0,2,1,3
+2016 Summer Olympics,59,2016,Kosovo,KOS,1,0,0,1
+2016 Summer Olympics,59,2016,Ireland,IRL,0,2,0,2
+2016 Summer Olympics,59,2016,Lithuania,LTU,0,1,3,4
+2016 Summer Olympics,59,2016,Bulgaria,BUL,0,1,2,3
+2016 Summer Olympics,59,2016,India,IND,0,1,1,2
+2016 Summer Olympics,59,2016,Mongolia,MGL,0,1,1,2
+2016 Summer Olympics,59,2016,Burundi,BDI,0,1,0,1
+2016 Summer Olympics,59,2016,Algeria,ALG,0,2,0,2

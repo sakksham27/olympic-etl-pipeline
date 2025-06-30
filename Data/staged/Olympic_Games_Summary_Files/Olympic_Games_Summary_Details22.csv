@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1980 Summer Olympics,20,/editions/20,1980,Moskva,https://olympedia-flags.s3.eu-central-1.amazonaws.com/URS.png,URS,19 July, 3 August,20 July –  3 August,
+1980 Winter Olympics,41,/editions/41,1980,Lake Placid,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,13 February,24 February,12 – 24 February,

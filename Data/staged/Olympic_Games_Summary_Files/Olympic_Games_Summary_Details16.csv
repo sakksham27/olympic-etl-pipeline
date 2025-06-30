@@ -1,0 +1,4 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1956 Summer Olympics,14,/editions/14,1956,Melbourne,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUS.png,AUS,22 November, 8 December,22 November –  8 December,
+1956 Equestrian,48,/editions/48,1956,Stockholm,https://olympedia-flags.s3.eu-central-1.amazonaws.com/SWE.png,SWE,10 June,17 June,11 – 17 June,
+1956 Winter Olympics,35,/editions/35,1956,Cortina d'Ampezzo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,26 January, 5 February,26 January –  5 February,

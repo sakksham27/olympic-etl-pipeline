@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1976 Winter Olympics,40,/editions/40,1976,Innsbruck,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUT.png,AUT, 4 February,15 February,3 – 15 February,
+1976 Summer Olympics,19,/editions/19,1976,Montréal,https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.png,CAN,17 July, 1 August,18 July –  1 August,

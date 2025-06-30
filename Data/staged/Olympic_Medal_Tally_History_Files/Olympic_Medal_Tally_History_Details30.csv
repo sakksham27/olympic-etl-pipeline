@@ -1,0 +1,88 @@
+edition,edition_id,year,country,country_noc,gold,silver,bronze,total
+2008 Summer Olympics,53,2008,Cameroon,CMR,1,0,0,1
+2008 Summer Olympics,53,2008,Portugal,POR,1,1,0,2
+2008 Summer Olympics,53,2008,Islamic Republic of Iran,IRI,1,0,1,2
+2008 Summer Olympics,53,2008,India,IND,1,0,2,3
+2008 Summer Olympics,53,2008,Trinidad and Tobago,TTO,1,1,0,2
+2008 Summer Olympics,53,2008,Estonia,EST,1,1,0,2
+2008 Summer Olympics,53,2008,Bulgaria,BUL,1,1,3,5
+2008 Summer Olympics,53,2008,Latvia,LAT,1,1,1,3
+2008 Summer Olympics,53,2008,Finland,FIN,1,1,2,4
+2008 Summer Olympics,53,2008,Chinese Taipei,TPE,1,1,2,4
+2008 Summer Olympics,53,2008,Türkiye,TUR,1,1,3,5
+2008 Summer Olympics,53,2008,Panama,PAN,1,0,0,1
+2008 Summer Olympics,53,2008,Indonesia,INA,1,1,4,6
+2008 Summer Olympics,53,2008,Azerbaijan,AZE,1,1,4,6
+2008 Summer Olympics,53,2008,Dominican Republic,DOM,1,1,0,2
+2008 Summer Olympics,53,2008,Tunisia,TUN,1,0,0,1
+2008 Summer Olympics,53,2008,Greece,GRE,0,2,1,3
+2008 Summer Olympics,53,2008,Lithuania,LTU,0,3,2,5
+2008 Summer Olympics,53,2008,Slovenia,SLO,1,2,2,5
+2008 Summer Olympics,53,2008,The Bahamas,BAH,0,1,1,2
+2008 Summer Olympics,53,2008,Tajikistan,TJK,0,1,1,2
+2008 Summer Olympics,53,2008,Morocco,MAR,0,1,1,2
+2008 Summer Olympics,53,2008,Algeria,ALG,0,1,1,2
+2008 Summer Olympics,53,2008,Serbia,SRB,0,1,2,3
+2008 Summer Olympics,53,2008,Kyrgyzstan,KGZ,0,1,2,3
+2008 Summer Olympics,53,2008,Ireland,IRL,0,1,2,3
+2008 Summer Olympics,53,2008,Austria,AUT,0,1,2,3
+2008 Summer Olympics,53,2008,Uzbekistan,UZB,0,1,3,4
+2008 Summer Olympics,53,2008,Armenia,ARM,0,1,4,5
+2008 Summer Olympics,53,2008,Chile,CHI,0,1,0,1
+2008 Summer Olympics,53,2008,Colombia,COL,0,2,1,3
+2008 Summer Olympics,53,2008,Croatia,CRO,0,2,3,5
+2008 Summer Olympics,53,2008,Nigeria,NGR,0,3,2,5
+2008 Summer Olympics,53,2008,Sweden,SWE,0,4,1,5
+2008 Summer Olympics,53,2008,Zimbabwe,ZIM,1,3,0,4
+2008 Summer Olympics,53,2008,Ukraine,UKR,7,4,11,22
+2008 Summer Olympics,53,2008,Mexico,MEX,2,0,2,4
+2008 Summer Olympics,53,2008,Jamaica,JAM,5,4,2,11
+2008 Summer Olympics,53,2008,Spain,ESP,5,11,3,19
+2008 Summer Olympics,53,2008,Kenya,KEN,6,4,6,16
+2008 Summer Olympics,53,2008,Netherlands,NED,7,5,4,16
+2008 Summer Olympics,53,2008,France,FRA,7,16,20,43
+2008 Summer Olympics,53,2008,Italy,ITA,8,9,10,27
+2008 Summer Olympics,53,2008,Japan,JPN,9,8,8,25
+2008 Summer Olympics,53,2008,Republic of Korea,KOR,13,11,8,32
+2008 Summer Olympics,53,2008,Australia,AUS,14,15,17,46
+2008 Summer Olympics,53,2008,Germany,GER,16,11,14,41
+2008 Summer Olympics,53,2008,Great Britain,GBR,19,13,19,51
+2008 Summer Olympics,53,2008,Russian Federation,RUS,24,13,23,60
+2008 Summer Olympics,53,2008,United States,USA,36,39,37,112
+2008 Summer Olympics,53,2008,People's Republic of China,CHN,48,22,30,100
+2008 Summer Olympics,53,2008,Ecuador,ECU,0,1,0,1
+2008 Summer Olympics,53,2008,Poland,POL,4,5,2,11
+2008 Summer Olympics,53,2008,Belgium,BEL,2,0,0,2
+2008 Summer Olympics,53,2008,Ethiopia,ETH,4,2,1,7
+2008 Summer Olympics,53,2008,Canada,CAN,3,9,8,20
+2008 Summer Olympics,53,2008,Argentina,ARG,2,0,4,6
+2008 Summer Olympics,53,2008,Switzerland,SUI,2,1,4,7
+2008 Summer Olympics,53,2008,Mongolia,MGL,2,2,0,4
+2008 Summer Olympics,53,2008,Thailand,THA,2,2,2,6
+2008 Summer Olympics,53,2008,Democratic People's Republic of Korea,PRK,2,2,2,6
+2008 Summer Olympics,53,2008,Denmark,DEN,2,2,3,7
+2008 Summer Olympics,53,2008,Kazakhstan,KAZ,2,3,4,9
+2008 Summer Olympics,53,2008,Georgia,GEO,3,2,2,7
+2008 Summer Olympics,53,2008,New Zealand,NZL,3,2,4,9
+2008 Summer Olympics,53,2008,Slovakia,SVK,3,3,0,6
+2008 Summer Olympics,53,2008,Czechia,CZE,3,3,1,7
+2008 Summer Olympics,53,2008,Belarus,BLR,3,4,7,14
+2008 Summer Olympics,53,2008,Brazil,BRA,3,4,10,17
+2008 Summer Olympics,53,2008,Norway,NOR,3,5,1,9
+2008 Summer Olympics,53,2008,Hungary,HUN,3,5,2,10
+2008 Summer Olympics,53,2008,Romania,ROU,4,1,4,9
+2008 Summer Olympics,53,2008,Iceland,ISL,0,1,0,1
+2008 Summer Olympics,53,2008,Cuba,CUB,3,10,17,30
+2008 Summer Olympics,53,2008,Samoa,SAM,0,1,0,1
+2008 Summer Olympics,53,2008,Venezuela,VEN,0,0,1,1
+2008 Summer Olympics,53,2008,Togo,TOG,0,0,1,1
+2008 Summer Olympics,53,2008,Malaysia,MAS,0,1,0,1
+2008 Summer Olympics,53,2008,Mauritius,MRI,0,0,1,1
+2008 Summer Olympics,53,2008,Israel,ISR,0,0,1,1
+2008 Summer Olympics,53,2008,Republic of Moldova,MDA,0,0,1,1
+2008 Summer Olympics,53,2008,Egypt,EGY,0,0,2,2
+2008 Summer Olympics,53,2008,Vietnam,VIE,0,1,0,1
+2008 Summer Olympics,53,2008,Sudan,SUD,0,1,0,1
+2008 Summer Olympics,53,2008,South Africa,RSA,0,1,0,1
+2008 Summer Olympics,53,2008,Singapore,SGP,0,1,0,1
+2008 Summer Olympics,53,2008,Afghanistan,AFG,0,0,1,1

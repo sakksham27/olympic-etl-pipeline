@@ -1,0 +1,15 @@
+version: "3.1"
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres_olympic_data_warehouse
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: Olympic_Data_Warehouse
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./postgres-init-db:/docker-entrypoint-initdb.d
+
+volumes:
+  pgdata:

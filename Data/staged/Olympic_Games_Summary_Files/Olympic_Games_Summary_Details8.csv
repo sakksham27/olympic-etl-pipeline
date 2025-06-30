@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1924 Summer Olympics,8,/editions/8,1924,Paris,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA, 5 July,27 July, 4 May – 27 July,
+1924 Winter Olympics,29,/editions/29,1924,Chamonix,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA,24 January, 5 February,26 January –  4 February,

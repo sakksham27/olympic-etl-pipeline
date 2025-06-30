@@ -1,0 +1,620 @@
+edition,edition_id,country_noc,sport,event,result_id,athlete,athlete_id,pos,medal,isTeamSport
+1896 Summer Olympics,1,GER,Athletics,"1,500 metres, Men",56016,Carl Galle,70238,4,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,N. Stournaras,922181,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,D. Santanis,922180,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,K. Salouros,922179,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,P. Michalopoulos,922170,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,K. Kourkoulas,922161,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,Nik. Kourakos,922160,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,Dimitrios Drivas,47974,3,Bronze,False
+1896 Summer Olympics,1,GRE,Tennis,"Singles, Men",44000,Demetrius Casdagli,178,2,Silver,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,Spyros Chazapis,47981,2,Silver,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Sol. Xenopoulos,922184,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Emm. Valetsiotis,922182,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,A. Romantzas,922177,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Panagiotis Nastos,922171,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Merk. Lerias,922165,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Sav. Laskaridis,922163,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,P. F. Koukoudakis,922159,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle For Sailors, Men",4403,Ioannis Malokinis,47990,1,Gold,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Theod. Kontos,922158,DNS,,False
+1896 Summer Olympics,1,GRE,Tennis,"Singles, Men",44000,Konstantinos Paspatis,181,=3,Bronze,False
+1896 Summer Olympics,1,GRE,Tennis,"Singles, Men",44000,Evangelos Rallis,184,=5,,False
+1896 Summer Olympics,1,AUT,Fencing,"Sabre, Individual, Men",923213,Adolf Schmal,16491,4,,False
+1896 Summer Olympics,1,AUT,Swimming,"100 metres Freestyle, Men",4400,Otto Herschmann,21169,2,Silver,False
+1896 Summer Olympics,1,AUT,Swimming,"500 metres Freestyle, Men",4401,Paul Neumann,45387,1,Gold,False
+1896 Summer Olympics,1,AUT,Swimming,"500 metres Freestyle, Men",4401,Otto Herschmann,21169,DNS,,False
+1896 Summer Olympics,1,AUT,Swimming,"1,200 metres Freestyle, Men",4402,Paul Neumann,45387,DNF,,False
+1896 Summer Olympics,1,GRE,Weightlifting,"Unlimited, One Hand, Men",28510,Sotirios Versis,55911,4,,False
+1896 Summer Olympics,1,GRE,Weightlifting,"Unlimited, One Hand, Men",28510,Alexandros Nikolopoulos,55895,3,Bronze,False
+1896 Summer Olympics,1,GRE,Tennis,"Singles, Men",44000,Aristidis Akratopoulos,173,=5,,False
+1896 Summer Olympics,1,GRE,Tennis,"Doubles, Men",44019,Kostas Akratopoulos,174,=4,,True
+1896 Summer Olympics,1,GRE,Tennis,"Doubles, Men",44019,Konstantinos Paspatis,181,=4,,True
+1896 Summer Olympics,1,GRE,Tennis,"Doubles, Men",44019,Evangelos Rallis,184,=4,,True
+1896 Summer Olympics,1,GRE,Tennis,"Doubles, Men",44019,Dimitrios Petrokokkinos,182,2,Silver,True
+1896 Summer Olympics,1,GRE,Tennis,"Doubles, Men",44019,Demetrius Casdagli,178,2,Silver,True
+1896 Summer Olympics,1,GRE,Tennis,"Singles, Men",44000,Dimitrios Petrokokkinos,182,=8,,False
+1896 Summer Olympics,1,GRE,Tennis,"Singles, Men",44000,D. Frangopoulos,183,=8,,False
+1896 Summer Olympics,1,GRE,Tennis,"Singles, Men",44000,Kostas Akratopoulos,174,=5,,False
+1896 Summer Olympics,1,GRE,Tennis,"Doubles, Men",44019,Aristidis Akratopoulos,173,=4,,True
+1896 Summer Olympics,1,AUT,Cycling Track,"12-Hours Race, Men",153004,Adolf Schmal,16491,1,Gold,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,V. Chatzis,922157,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Ag. Diamantopoulos,922151,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Panagiotis Nastos,922171,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,P. Michalopoulos,922170,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,G. Mazoukas,922169,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,G. Marnezos,922168,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,I. Markou,922167,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,V. Mangourakis,922166,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Merk. Lerias,922165,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Fill. Pothitos,922174,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Sav. Laskaridis,922163,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Nik. Kourakos,922160,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Theod. Kontos,922158,DNS,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Men",70006,Filippos Karvelas,30337,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Men",70006,Ioannis Mitropoulos,30340,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Men",70006,Antonios Papaioannou,30341,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Nikolaos Andriakopoulos,30335,2,Silver,True
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Petros Persakis,30342,2,Silver,True
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,K. Kourkoulas,922161,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,I. Dontis,922152,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Marathon, Men",56017,Carl Galle,70238,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,D. Santanis,922180,DNS,,False
+1896 Summer Olympics,1,AUS,Tennis,"Doubles, Men",44019,George Stuart Robertson,69445,3,Bronze,True
+1896 Summer Olympics,1,AUS,Tennis,"Doubles, Men",44019,Teddy Flack,627,3,Bronze,True
+1896 Summer Olympics,1,AUS,Tennis,"Singles, Men",44000,Teddy Flack,627,=8,,False
+1896 Summer Olympics,1,AUS,Athletics,"Marathon, Men",56017,Teddy Flack,627,DNF,,False
+1896 Summer Olympics,1,AUS,Athletics,"1,500 metres, Men",56016,Teddy Flack,627,1,Gold,False
+1896 Summer Olympics,1,AUS,Athletics,"800 metres, Men",56011,Teddy Flack,627,1,Gold,False
+1896 Summer Olympics,1,AUS,Athletics,"400 metres, Men",56006,Teddy Flack,627,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,K. Salouros,922179,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,G. Athanasiou,922149,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,D. Frangopoulos,183,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Efstathios Chorafas,47983,AC,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,N. Katravas,79806,AC,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Ioannis Andreou,47970,2,Silver,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,A. Zanos,922185,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Sol. Xenopoulos,922184,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,N. Stournaras,922181,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"1,200 metres Freestyle, Men",4402,Antonios Pepanos,47996,DNS,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Thomas Xenakis,30346,2,Silver,True
+1896 Summer Olympics,1,AUT,Cycling Track,"100 kilometres, Men",153003,Adolf Schmal,16491,DNF,,False
+1896 Summer Olympics,1,AUT,Cycling Track,"333⅓ metres Time Trial, Men",153000,Adolf Schmal,16491,3,Bronze,False
+1896 Summer Olympics,1,DEN,Swimming,"1,200 metres Freestyle, Men",4402,Holger Nielsen,46336,DNS,,False
+1896 Summer Olympics,1,DEN,Swimming,"1,200 metres Freestyle, Men",4402,Charles Winckler,67011,DNS,,False
+1896 Summer Olympics,1,DEN,Weightlifting,"Unlimited, One Hand, Men",28510,Viggo Jensen,41776,2,Silver,False
+1896 Summer Olympics,1,DEN,Weightlifting,"Unlimited, Two Hands, Men",28511,Viggo Jensen,41776,1,Gold,False
+1896 Summer Olympics,1,GBR,Artistic Gymnastics,"Rope Climbing, Men",70007,Launceston Elliot,69034,5,,False
+1896 Summer Olympics,1,GBR,Athletics,"100 metres, Men",56000,Charles Gmelin,69073,3 h1 r1/2,,False
+1896 Summer Olympics,1,GBR,Athletics,"100 metres, Men",56000,Launceston Elliot,69034,3 h2 r1/2,,False
+1896 Summer Olympics,1,DEN,Swimming,"500 metres Freestyle, Men",4401,Charles Winckler,67011,DNS,,False
+1896 Summer Olympics,1,GBR,Athletics,"100 metres, Men",56000,George Marshall,69279,5 h2 r1/2,,False
+1896 Summer Olympics,1,GBR,Athletics,"400 metres, Men",56006,Launceston Elliot,69034,DNS,,False
+1896 Summer Olympics,1,GBR,Athletics,"400 metres, Men",56006,Grantley Goulding,69079,DNS,,False
+1896 Summer Olympics,1,GBR,Athletics,"400 metres, Men",56006,George Marshall,69279,DNS,,False
+1896 Summer Olympics,1,GBR,Athletics,"800 metres, Men",56011,George Marshall,69279,4 h1 r1/2,,False
+1896 Summer Olympics,1,GBR,Athletics,"1,500 metres, Men",56016,George Marshall,69279,DNS,,False
+1896 Summer Olympics,1,GBR,Athletics,"110 metres Hurdles, Men",56018,Grantley Goulding,69079,2,Silver,False
+1896 Summer Olympics,1,GBR,Athletics,"Shot Put, Men",56027,George Stuart Robertson,69445,DNS,,False
+1896 Summer Olympics,1,GBR,Athletics,"400 metres, Men",56006,Charles Gmelin,69073,3,Bronze,False
+1896 Summer Olympics,1,GBR,Athletics,"Discus Throw, Men",56028,George Stuart Robertson,69445,4,,False
+1896 Summer Olympics,1,DEN,Swimming,"500 metres Freestyle, Men",4401,Holger Nielsen,46336,DNS,,False
+1896 Summer Olympics,1,DEN,Swimming,"100 metres Freestyle, Men",4400,Holger Nielsen,46336,DNS,,False
+1896 Summer Olympics,1,DEN,Athletics,"100 metres, Men",56000,Eugen Schmidt,66989,4 h2 r1/2,,False
+1896 Summer Olympics,1,DEN,Athletics,"Shot Put, Men",56027,Viggo Jensen,41776,4,,False
+1896 Summer Olympics,1,DEN,Athletics,"Shot Put, Men",56027,Holger Nielsen,46336,DNS,,False
+1896 Summer Olympics,1,DEN,Athletics,"Shot Put, Men",56027,Charles Winckler,67011,DNS,,False
+1896 Summer Olympics,1,DEN,Athletics,"Discus Throw, Men",56028,Holger Nielsen,46336,AC,,False
+1896 Summer Olympics,1,DEN,Athletics,"Discus Throw, Men",56028,Viggo Jensen,41776,AC,,False
+1896 Summer Olympics,1,DEN,Athletics,"Discus Throw, Men",56028,Charles Winckler,67011,DNS,,False
+1896 Summer Olympics,1,DEN,Swimming,"100 metres Freestyle, Men",4400,Charles Winckler,67011,DNS,,False
+1896 Summer Olympics,1,DEN,Fencing,"Foil, Individual, Men",72000,Holger Nielsen,46336,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,I. Georgiadis,922154,DNS,,False
+1896 Summer Olympics,1,DEN,Shooting,"Military Pistol, 25 metres, Men",51500,Holger Nielsen,46336,5,,False
+1896 Summer Olympics,1,DEN,Shooting,"Muzzle-Loading Pistol, 25 metres, Men",51501,Holger Nielsen,46336,3,Bronze,False
+1896 Summer Olympics,1,DEN,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Viggo Jensen,41776,3,Bronze,False
+1896 Summer Olympics,1,DEN,Shooting,"Military Rifle, 200 metres, Men",51503,Viggo Jensen,41776,6,,False
+1896 Summer Olympics,1,DEN,Shooting,"Military Rifle, 200 metres, Men",51503,Eugen Schmidt,66989,=12,,False
+1896 Summer Olympics,1,DEN,Shooting,"Military Rifle, 200 metres, Men",51503,Holger Nielsen,46336,DNF,,False
+1896 Summer Olympics,1,DEN,Fencing,"Sabre, Individual, Men",923213,Holger Nielsen,46336,3,Bronze,False
+1896 Summer Olympics,1,AUT,Cycling Track,"10,000 metres, Men",153002,Adolf Schmal,16491,3,Bronze,False
+1896 Summer Olympics,1,GBR,Cycling Road,"Road Race, Individual, Men",153005,Edward Battel,13526,3,Bronze,False
+1896 Summer Olympics,1,GBR,Cycling Track,"333⅓ metres Time Trial, Men",153000,Edward Battel,13526,4,,False
+1896 Summer Olympics,1,GBR,Tennis,"Doubles, Men",44019,George Marshall,69279,DNS,,True
+1896 Summer Olympics,1,GBR,Weightlifting,"Unlimited, One Hand, Men",28510,Launceston Elliot,69034,1,Gold,False
+1896 Summer Olympics,1,GBR,Weightlifting,"Unlimited, Two Hands, Men",28511,Launceston Elliot,69034,2,Silver,False
+1896 Summer Olympics,1,GBR,Wrestling,"Unlimited Class, Greco-Roman, Men",120000,Launceston Elliot,69034,=4,,False
+1896 Summer Olympics,1,ITA,Athletics,"Marathon, Men",56017,Carlo Airoldi,922411,DNS,,False
+1896 Summer Olympics,1,ITA,Cycling Road,"Road Race, Individual, Men",153005,Angelo Porciatti,2303305,DNS,,False
+1896 Summer Olympics,1,ITA,Fencing,"Foil, Individual, Men",72000,Giuseppe Caruso,2303654,DNS,,False
+1896 Summer Olympics,1,GBR,Tennis,"Doubles, Men",44019,Fred Marshall,1805076,DNS,,True
+1896 Summer Olympics,1,ITA,Fencing,"Foil, Individual, Men",72000,Vincenzo Baroni,2303653,DNS,,False
+1896 Summer Olympics,1,ITA,Fencing,"Sabre, Individual, Men",923213,Vincenzo Baroni,2303653,DNS,,False
+1896 Summer Olympics,1,ITA,Shooting,"Military Rifle, 200 metres, Men",51503,Giuseppe Rivabella,43008,AC,,False
+1896 Summer Olympics,1,GRE,Wrestling,"Unlimited Class, Greco-Roman, Men",120000,Stefanos Christopoulos,58481,3,Bronze,False
+1896 Summer Olympics,1,GRE,Wrestling,"Unlimited Class, Greco-Roman, Men",120000,Georgios Tsitas,58508,2,Silver,False
+1896 Summer Olympics,1,GRE,Weightlifting,"Unlimited, Two Hands, Men",28511,Georgios Papasideris,70824,=4,,False
+1896 Summer Olympics,1,GRE,Weightlifting,"Unlimited, Two Hands, Men",28511,Sotirios Versis,55911,3,Bronze,False
+1896 Summer Olympics,1,AUT,Cycling Road,"Road Race, Individual, Men",153005,Adolf Schmal,16491,DNS,,False
+1896 Summer Olympics,1,ITA,Fencing,"Sabre, Individual, Men",923213,Giuseppe Caruso,2303654,DNS,,False
+1896 Summer Olympics,1,GBR,Cycling Road,"Road Race, Individual, Men",153005,Frederick Keeping,15033,DNS,,False
+1896 Summer Olympics,1,GBR,Tennis,"Doubles, Men",44019,George Stuart Robertson,69445,3,Bronze,True
+1896 Summer Olympics,1,GBR,Tennis,"Doubles, Men",44019,Fritz Traun,162,1,Gold,True
+1896 Summer Olympics,1,GBR,Cycling Track,"333⅓ metres Time Trial, Men",153000,Frederick Keeping,15033,=5,,False
+1896 Summer Olympics,1,GBR,Cycling Track,"100 kilometres, Men",153003,Edward Battel,13526,DNF,,False
+1896 Summer Olympics,1,GBR,Cycling Track,"12-Hours Race, Men",153004,Frederick Keeping,15033,2,Silver,False
+1896 Summer Olympics,1,GBR,Fencing,"Sabre, Individual, Men",923213,Edgar Seligman,22190,DNS,,False
+1896 Summer Olympics,1,GBR,Shooting,"Military Pistol, 25 metres, Men",51500,Sidney Merlin,42374,DNF,,False
+1896 Summer Olympics,1,GBR,Shooting,"Muzzle-Loading Pistol, 25 metres, Men",51501,Sidney Merlin,42374,DNF,,False
+1896 Summer Olympics,1,GBR,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Sidney Merlin,42374,AC,,False
+1896 Summer Olympics,1,GBR,Tennis,"Doubles, Men",44019,Teddy Flack,627,3,Bronze,True
+1896 Summer Olympics,1,GBR,Shooting,"Military Rifle, 200 metres, Men",51503,Sidney Merlin,42374,10,,False
+1896 Summer Olympics,1,GBR,Swimming,"100 metres Freestyle, Men",4400,H. F. Suter,922132,DNS,,False
+1896 Summer Olympics,1,GBR,Swimming,"500 metres Freestyle, Men",4401,H. F. Suter,922132,DNS,,False
+1896 Summer Olympics,1,GBR,Tennis,"Singles, Men",44000,John Pius Boland,79,1,Gold,False
+1896 Summer Olympics,1,GBR,Tennis,"Singles, Men",44000,George Stuart Robertson,69445,=8,,False
+1896 Summer Olympics,1,GBR,Tennis,"Singles, Men",44000,Fred Marshall,1805076,DNS,,False
+1896 Summer Olympics,1,GBR,Tennis,"Singles, Men",44000,George Marshall,69279,DNS,,False
+1896 Summer Olympics,1,GBR,Tennis,"Doubles, Men",44019,John Pius Boland,79,1,Gold,True
+1896 Summer Olympics,1,GBR,Shooting,"Military Rifle, 200 metres, Men",51503, Machonet,80233,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Filippos Karvelas,30337,3,Bronze,True
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Dimitrios Loundras,30338,3,Bronze,True
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Ioannis Mitropoulos,30340,3,Bronze,True
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Alexandros Theofilakis,42672,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Pavlos Pavlidis,42660,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504, Moustakopoulos,42648,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Nikolaos Levidis,42635,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504, Karakatsanis,102578,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Alexios Fetsis,80232,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Georgios Diamantis,42618,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Ioannis Theofilakis,42673,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504, Chatzidakis,42628,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Ioannis Vourakis,42685,DNF,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Leonidas Lanngakis,42634,DNF,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Pantelis Karasevdas,42626,1,Gold,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Pavlos Pavlidis,42660,2,Silver,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Nikolaos Trikoupis,42677,3,Bronze,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Anastasios Metaxas,42642,4,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Georgios Orfanidis,42650,5,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504, Antelothanasis,42615,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Georgios Diamantis,42618,7,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Nikolaos Trikoupis,42677,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Pantelis Karasevdas,42626,5,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500,Ioannis Fragkoudis,42620,4,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500, Vavis,42682,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500, Platis,42662,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500,Aristovoulos Petmezas,30343,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500,Pavlos Pavlidis,42660,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500, Patsouris,42659,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500, Pantazidis,42653,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Xenon Michailidis,42644,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500,Georgios Orfanidis,42650,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500, Sanidis,42665,DNF,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500,Pantelis Karasevdas,42626,DNF,,False
+1896 Summer Olympics,1,GRE,Shooting,"Muzzle-Loading Pistol, 25 metres, Men",51501,Ioannis Fragkoudis,42620,1,Gold,False
+1896 Summer Olympics,1,GRE,Shooting,"Muzzle-Loading Pistol, 25 metres, Men",51501,Georgios Orfanidis,42650,2,Silver,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Georgios Orfanidis,42650,1,Gold,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Ioannis Fragkoudis,42620,2,Silver,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Rifle, Any Position, 300 metres, Men",51504,Anastasios Metaxas,42642,4,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500,Xenon Michailidis,42644,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Pistol, 25 metres, Men",51500,Nikos Morakis,42646,3,Bronze,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Ioannis Theofilakis,42673,9,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Spyridon Stais,42669,=12,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,G. Marnezos,922168,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Panagiotis Nastos,922171,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Georgios Petrou,922172,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Fill. Pothitos,922174,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Emm. Valetsiotis,922182,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Ir. Vlachos,922183,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Sol. Xenopoulos,922184,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,I. Markou,922167,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Antonios Pepanos,47996,2,Silver,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,D. Frangopoulos,183,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Dimitrios Christopoulos,79651,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,N. Katravas,79806,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,A. Grigoriadis,922376,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Ag. Diamantopoulos,922151,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,I. Dontis,922152,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Georgios Gaitanos,922153,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,Efstathios Chorafas,47983,3,Bronze,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Alexios Fetsis,80232,11,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,V. Mangourakis,922166,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Sav. Laskaridis,922163,DNS,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,Aristovoulos Petmezas,30343,AC,,False
+1896 Summer Olympics,1,GRE,Shooting,"Military Rifle, 200 metres, Men",51503,G. Karagiannopoulos,80234,AC,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Alexandros Chrysafos,47987,AC,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Efstathios Chorafas,47983,AC,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Georgios Anninos,47971,AC,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,D. Frangopoulos,183,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Georgios Valakakis,22387,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Merk. Lerias,922165,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,N. Katravas,79806,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,I. Dontis,922152,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Georgios Gaitanos,922153,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,G. K. Karagiannis,922156,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,V. Chatzis,922157,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Theod. Kontos,922158,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,P. F. Koukoudakis,922159,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Georgios Lamprakis,922162,DNS,,False
+1896 Summer Olympics,1,GRE,Swimming,"100 metres Freestyle, Men",4400,Ag. Diamantopoulos,922151,DNS,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Pistol, 30 metres, Men",51502,Georgios Orfanidis,42650,5,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Pistol, 30 metres, Men",51502,Nikos Morakis,42646,4,,False
+1896 Summer Olympics,1,GRE,Shooting,"Free Pistol, 30 metres, Men",51502,Ioannis Fragkoudis,42620,3,Bronze,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Ioannis Vrettos,70876,4,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Eleftherios Papasymeon,70825,5,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Dimitrios Deligiannis,70719,6,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Evangelos Gerakakis,70736,7,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Stamatios Masouris,70800,8,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Sokratis Lagoudakis,70775,9,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Georgios Lavrentis,70779,DNF,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Charilaos Vasilakos,70870,2,Silver,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Georgios Grigoriou,70739,DNF,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Dimitrios Christopoulos,79651,DNF,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Spyridon Belokas,70710,DQ,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017, Vathis,922405,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017, Vanitakis,922404,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Stamata Revithi,1202145,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017, Melpomene,1202146,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"110 metres Hurdles, Men",56018,Anastasios Andreou,70702,AC h1 r1/2,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Ilias Kafetzis,70743,DNF,,False
+1896 Summer Olympics,1,GRE,Athletics,"110 metres Hurdles, Men",56018,Athanasios Skaltsogiannis,70850,AC h2 r1/2,,False
+1896 Summer Olympics,1,GRE,Athletics,"Marathon, Men",56017,Spyros Louis,70782,1,Gold,False
+1896 Summer Olympics,1,GRE,Athletics,"1,500 metres, Men",56016,Kostas Karakatsanis,42625,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Horizontal Bar, Men",70005,Antonios Papaioannou,30341,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Horizontal Bar, Men",70005,Leonidas Tsiklitiras,30344,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Rings, Men",70004,Ioannis Mitropoulos,30340,1,Gold,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Rings, Men",70004,Petros Persakis,30342,3,Bronze,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Pommelled Horse, Men",70003,Aristovoulos Petmezas,30343,AC,,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Rope Climbing, Men",70007,Nikolaos Andriakopoulos,30335,1,Gold,False
+1896 Summer Olympics,1,GRE,Artistic Gymnastics,"Rope Climbing, Men",70007,Thomas Xenakis,30346,2,Silver,False
+1896 Summer Olympics,1,GRE,Athletics,"1,500 metres, Men",56016,Dimitri Tombrof,70861,AC,,False
+1896 Summer Olympics,1,GRE,Athletics,"100 metres, Men",56000,Alexandros Chalkokondylis,70714,5,,False
+1896 Summer Olympics,1,GRE,Athletics,"100 metres, Men",56000,Konstantinos Mouratis,922403,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"400 metres, Men",56006,Konstantinos Mouratis,922403,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"800 metres, Men",56011,Dimitrios Golemis,70737,3,Bronze,False
+1896 Summer Olympics,1,GRE,Athletics,"800 metres, Men",56011,Dimitri Tombrof,70861,AC h2 r1/2,,False
+1896 Summer Olympics,1,GRE,Athletics,"800 metres, Men",56011,Angelos Fetsis,79648,AC h2 r1/2,,False
+1896 Summer Olympics,1,GRE,Athletics,"1,500 metres, Men",56016,Angelos Fetsis,79648,AC,,False
+1896 Summer Olympics,1,GRE,Athletics,"1,500 metres, Men",56016,Dimitrios Golemis,70737,AC,,False
+1896 Summer Olympics,1,GRE,Athletics,"100 metres, Men",56000,Georgios Gennimatas,70729,AC h3 r1/2,,False
+1896 Summer Olympics,1,GRE,Athletics,"110 metres Hurdles, Men",56018,Konstantinos Mouratis,922403,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"Pole Vault, Men",56024,Evangelos Damaskos,70717,=3,Bronze,False
+1896 Summer Olympics,1,GRE,Athletics,"Pole Vault, Men",56024,Ioannis Theodoropoulos,70860,=3,Bronze,False
+1896 Summer Olympics,1,GRE,Cycling Track,"10,000 metres, Men",153002,Georgios Koletis,15116,DNF,,False
+1896 Summer Olympics,1,GRE,Cycling Track,"100 kilometres, Men",153003,Georgios Koletis,15116,2,Silver,False
+1896 Summer Olympics,1,GRE,Cycling Track,"100 kilometres, Men",153003,Aristidis Konstantinidis,15125,DNF,,False
+1896 Summer Olympics,1,GRE,Cycling Track,"12-Hours Race, Men",153004,Georgios Paraskevopoulos,16010,DNF,,False
+1896 Summer Olympics,1,GRE,Cycling Track,"12-Hours Race, Men",153004,A. Tryfiatis-Trypiapis,16906,DNF,,False
+1896 Summer Olympics,1,GRE,Cycling Track,"12-Hours Race, Men",153004,Nikos Loverdos,15379,DNF,,False
+1896 Summer Olympics,1,GRE,Cycling Track,"12-Hours Race, Men",153004,Konstantinos Konstantinou,15126,DNF,,False
+1896 Summer Olympics,1,GRE,Cycling Track,"10,000 metres, Men",153002,Aristidis Konstantinidis,15125,AC,,False
+1896 Summer Olympics,1,GRE,Fencing,"Foil, Individual, Men",72000,Alexandros  Vouros,22391,=3,Bronze,False
+1896 Summer Olympics,1,GRE,Fencing,"Foil, Individual, Men",72000,Konstantinos Komninos-Miliotis,22373,=5,,False
+1896 Summer Olympics,1,GRE,Fencing,"Foil, Individual, Men",72000,Ioannis Poulos,22380,=7,,False
+1896 Summer Olympics,1,GRE,Fencing,"Foil, Individual, Men",72000,Georgios Valakakis,22387,=7,,False
+1896 Summer Olympics,1,GRE,Fencing,"Foil, Masters, Individual, Men",72029,Leon Pyrgos,22382,1,Gold,False
+1896 Summer Olympics,1,GRE,Fencing,"Sabre, Individual, Men",923213,Ioannis Georgiadis,22363,1,Gold,False
+1896 Summer Olympics,1,GRE,Fencing,"Sabre, Individual, Men",923213,Tilemachos Karakalos,22367,2,Silver,False
+1896 Summer Olympics,1,GRE,Fencing,"Sabre, Individual, Men",923213,Georgios Iatridis,22365,5,,False
+1896 Summer Olympics,1,GRE,Fencing,"Foil, Individual, Men",72000,Periklis Pierrakos-Mavromichalis,22379,=3,Bronze,False
+1896 Summer Olympics,1,GRE,Cycling Track,"333⅓ metres Time Trial, Men",153000,Stamatios Nikolopoulos,15882,2,Silver,False
+1896 Summer Olympics,1,GRE,Cycling Track,"Sprint, Men",153001,Stamatios Nikolopoulos,15882,2,Silver,False
+1896 Summer Olympics,1,GRE,Cycling Road,"Road Race, Individual, Men",153005,Stamatios Nikolopoulos,15882,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"Pole Vault, Men",56024,Vasilios Xydas,70878,5,,False
+1896 Summer Olympics,1,GRE,Athletics,"Long Jump, Men",56025,Alexandros Chalkokondylis,70714,4,,False
+1896 Summer Olympics,1,GRE,Athletics,"Long Jump, Men",56025,Athanasios Skaltsogiannis,70850,AC,,False
+1896 Summer Olympics,1,GRE,Athletics,"Long Jump, Men",56025,Konstantinos Mouratis,922403,DNS,,False
+1896 Summer Olympics,1,GRE,Athletics,"Triple Jump, Men",56026,Ioannis Persakis,70830,3,Bronze,False
+1896 Summer Olympics,1,GRE,Athletics,"Triple Jump, Men",56026,Christos Zoumis,70883,AC,,False
+1896 Summer Olympics,1,GRE,Athletics,"Shot Put, Men",56027,Miltiadis Gouskos,70738,2,Silver,False
+1896 Summer Olympics,1,GRE,Athletics,"Shot Put, Men",56027,Georgios Papasideris,70824,3,Bronze,False
+1896 Summer Olympics,1,GRE,Athletics,"Discus Throw, Men",56028,Panagiotis Paraskevopoulos,70827,2,Silver,False
+1896 Summer Olympics,1,GRE,Athletics,"Discus Throw, Men",56028,Sotirios Versis,55911,3,Bronze,False
+1896 Summer Olympics,1,GRE,Athletics,"Discus Throw, Men",56028,Georgios Papasideris,70824,AC,,False
+1896 Summer Olympics,1,GRE,Cycling Road,"Road Race, Individual, Men",153005,Aristidis Konstantinidis,15125,1,Gold,False
+1896 Summer Olympics,1,GRE,Cycling Road,"Road Race, Individual, Men",153005,Georgios Paraskevopoulos,16010,AC,,False
+1896 Summer Olympics,1,GRE,Cycling Road,"Road Race, Individual, Men",153005,Konstantinos Konstantinou,15126,AC,,False
+1896 Summer Olympics,1,GRE,Cycling Road,"Road Race, Individual, Men",153005,Miltiadis Iatrou,14837,AC,,False
+1896 Summer Olympics,1,GRE,Cycling Road,"Road Race, Individual, Men",153005,Georgios Aspiotis,13447,AC,,False
+1896 Summer Olympics,1,GRE,Cycling Road,"Road Race, Individual, Men",153005,Georgios Koletis,15116,DNS,,False
+1896 Summer Olympics,1,DEN,Artistic Gymnastics,"Rope Climbing, Men",70007,Viggo Jensen,41776,4,,False
+1896 Summer Olympics,1,USA,Athletics,"100 metres, Men",56000,Tom Burke,78175,1,Gold,False
+1896 Summer Olympics,1,DEN,Shooting,"Free Pistol, 30 metres, Men",51502,Holger Nielsen,46336,2,Silver,False
+1896 Summer Olympics,1,FRA,Athletics,"Discus Throw, Men",56028,Louis Adler,922401,DNS,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Alfred Flatow,30247,2,Silver,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Hermann Weingärtner,30325,1,Gold,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Hermann Weingärtner,30325,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Carl Schuhmann,70502,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Gustav Schuft,30303,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Richard Röstel,30301,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Karl Neukirch,30284,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Fritz Manteuffel,30281,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Georg Hillmar,30259,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Gustav Flatow,70227,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Alfred Flatow,30247,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Teams, Men",70000,Conrad Böcker,30240,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Hermann Weingärtner,30325,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Gustav Schuft,30303,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Richard Röstel,30301,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Karl Neukirch,30284,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Fritz Manteuffel,30281,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Georg Hillmar,30259,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Gustav Flatow,70227,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Carl Schuhmann,70502,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Conrad Böcker,30240,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Gustav Flatow,70227,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Georg Hillmar,30259,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Hermann Weingärtner,30325,2,Silver,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Rings, Men",70004,Gustav Flatow,70227,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Rings, Men",70004,Alfred Flatow,30247,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Rings, Men",70004,Conrad Böcker,30240,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Rings, Men",70004,Carl Schuhmann,70502,5,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Rings, Men",70004,Hermann Weingärtner,30325,2,Silver,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Hermann Weingärtner,30325,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Gustav Schuft,30303,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Richard Röstel,30301,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Conrad Böcker,30240,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Karl Neukirch,30284,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Georg Hillmar,30259,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Gustav Flatow,70227,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Alfred Flatow,30247,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Conrad Böcker,30240,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Carl Schuhmann,70502,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Gustav Schuft,30303,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Richard Röstel,30301,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Karl Neukirch,30284,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Men",70005,Fritz Manteuffel,30281,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horizontal Bar, Teams, Men",70001,Fritz Manteuffel,30281,1,Gold,True
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Carl Schuhmann,70502,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Carl Schuhmann,70502,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Gustav Schuft,30303,AC,,False
+1896 Summer Olympics,1,FRA,Athletics,"100 metres, Men",56000,Jean Tournois,922402,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"100 metres, Men",56000,Louis Adler,922401,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"100 metres, Men",56000,Alexandre Tuffèri,68538,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"400 metres, Men",56006,Frantz Reichel,68474,3 h2 r1/2,,False
+1896 Summer Olympics,1,FRA,Athletics,"400 metres, Men",56006,Adolphe Grisel,46849,AC h1 r1/2,,False
+1896 Summer Olympics,1,FRA,Athletics,"400 metres, Men",56006,Georges de la Nézière,68172,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"800 metres, Men",56011,Albin Lermusiaux,42186,1 h1 r1/2,,False
+1896 Summer Olympics,1,FRA,Athletics,"800 metres, Men",56011,Georges de la Nézière,68172,3 h2 r1/2,,False
+1896 Summer Olympics,1,FRA,Athletics,"800 metres, Men",56011,Frantz Reichel,68474,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"1,500 metres, Men",56016,Albin Lermusiaux,42186,3,Bronze,False
+1896 Summer Olympics,1,FRA,Athletics,"1,500 metres, Men",56016,Georges de la Nézière,68172,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"Marathon, Men",56017,Albin Lermusiaux,42186,DNF,,False
+1896 Summer Olympics,1,FRA,Athletics,"110 metres Hurdles, Men",56018,Frantz Reichel,68474,2 h1 r1/2,,False
+1896 Summer Olympics,1,FRA,Athletics,"High Jump, Men",56023,Louis Adler,922401,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"Long Jump, Men",56025,Alexandre Tuffèri,68538,AC,,False
+1896 Summer Olympics,1,FRA,Athletics,"Long Jump, Men",56025,Adolphe Grisel,46849,AC,,False
+1896 Summer Olympics,1,FRA,Athletics,"Triple Jump, Men",56026,Alexandre Tuffèri,68538,2,Silver,False
+1896 Summer Olympics,1,FRA,Athletics,"Triple Jump, Men",56026,Adolphe Grisel,46849,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"Shot Put, Men",56027,Louis Adler,922401,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"100 metres, Men",56000,Adolphe Grisel,46849,4 h1 r1/2,,False
+1896 Summer Olympics,1,FRA,Artistic Gymnastics,"Parallel Bars, Men",70006,Adolphe Grisel,46849,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Carl Schuhmann,70502,1,Gold,False
+1896 Summer Olympics,1,SUI,Shooting,"Military Rifle, 200 metres, Men",51503,Albert Baumann,44044,8,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Richard Röstel,30301,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Karl Neukirch,30284,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Fritz Manteuffel,30281,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Georg Hillmar,30259,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Gustav Flatow,70227,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Alfred Flatow,30247,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Conrad Böcker,30240,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Horse Vault, Men",70002,Hermann Weingärtner,30325,3,Bronze,False
+1896 Summer Olympics,1,USA,Swimming,"1,200 metres Freestyle, Men",4402,Gardner Williams,51616,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Parallel Bars, Men",70006,Alfred Flatow,30247,1,Gold,False
+1896 Summer Olympics,1,USA,Swimming,"100 metres Freestyle, Men",4400,Gardner Williams,51616,AC,,False
+1896 Summer Olympics,1,USA,Shooting,"Military Pistol, 25 metres, Men",51500,Sumner Paine,44732,2,Silver,False
+1896 Summer Olympics,1,USA,Shooting,"Military Pistol, 25 metres, Men",51500,John Paine,44731,1,Gold,False
+1896 Summer Olympics,1,USA,Shooting,"Free Pistol, 30 metres, Men",51502,Sumner Paine,44732,1,Gold,False
+1896 Summer Olympics,1,USA,Fencing,"Sabre, Individual, Men",923213,Albertson Van Zo Post,23813,DNS,,False
+1896 Summer Olympics,1,USA,Fencing,"Foil, Individual, Men",72000,Fred Hellen,2303655,DNS,,False
+1896 Summer Olympics,1,SUI,Artistic Gymnastics,"Horse Vault, Men",70002,Louis Zutter,31059,2,Silver,False
+1896 Summer Olympics,1,SUI,Artistic Gymnastics,"Parallel Bars, Men",70006,Louis Zutter,31059,2,Silver,False
+1896 Summer Olympics,1,SUI,Artistic Gymnastics,"Horizontal Bar, Men",70005,Louis Zutter,31059,AC,,False
+1896 Summer Olympics,1,SUI,Artistic Gymnastics,"Pommelled Horse, Men",70003,Louis Zutter,31059,1,Gold,False
+1896 Summer Olympics,1,USA,Shooting,"Military Rifle, 200 metres, Men",51503,Charles Waldstein,44788,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Conrad Böcker,30240,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Alfred Flatow,30247,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Gustav Flatow,70227,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Gustav Flatow,70227,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Carl Galle,70238,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Carl Schuhmann,70502,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Long Jump, Men",56025,Carl Schuhmann,70502,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"Long Jump, Men",56025,Fritz Traun,162,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Long Jump, Men",56025,Alfred Flatow,30247,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Long Jump, Men",56025,Fritz Hofmann,30260,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Long Jump, Men",56025,Hermann Weingärtner,30325,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Long Jump, Men",56025,Kurt Doerry,70207,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Long Jump, Men",56025,Carl Galle,70238,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Triple Jump, Men",56026,Carl Schuhmann,70502,5,,False
+1896 Summer Olympics,1,GER,Athletics,"Triple Jump, Men",56026,Fritz Hofmann,30260,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"Triple Jump, Men",56026,Fritz Traun,162,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Triple Jump, Men",56026,Alfred Flatow,30247,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Shot Put, Men",56027,Carl Schuhmann,70502,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"Shot Put, Men",56027,Fritz Hofmann,30260,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"Shot Put, Men",56027,Conrad Böcker,30240,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Shot Put, Men",56027,Alfred Flatow,30247,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Shot Put, Men",56027,Hermann Weingärtner,30325,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Kurt Doerry,70207,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Hermann Weingärtner,30325,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Karl Neukirch,30284,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Fritz Manteuffel,30281,DNS,,False
+1896 Summer Olympics,1,BUL,Athletics,"Pole Vault, Men",56024,Charles Champaud,31002,DNS,,False
+1896 Summer Olympics,1,BUL,Artistic Gymnastics,"Pommelled Horse, Men",70003,Charles Champaud,31002,AC,,False
+1896 Summer Olympics,1,BUL,Artistic Gymnastics,"Parallel Bars, Men",70006,Charles Champaud,31002,AC,,False
+1896 Summer Olympics,1,BUL,Artistic Gymnastics,"Horse Vault, Men",70002,Charles Champaud,31002,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"110 metres Hurdles, Men",56018,Kurt Doerry,70207,AC h2 r1/2,,False
+1896 Summer Olympics,1,GER,Athletics,"110 metres Hurdles, Men",56018,Fritz Traun,162,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"110 metres Hurdles, Men",56018,Fritz Hofmann,30260,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Fritz Hofmann,30260,5,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Conrad Böcker,30240,DNS,,False
+1896 Summer Olympics,1,SWE,Swimming,"100 metres Freestyle, Men",4400,Johan Bergman,922323,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Fritz Traun,162,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Fritz Manteuffel,30281,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Gustav Schuft,30303,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Kurt Doerry,70207,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Gustav Flatow,70227,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Carl Galle,70238,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Carl Schuhmann,70502,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Fritz Traun,162,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Alfred Flatow,30247,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"Pole Vault, Men",56024,Fritz Hofmann,30260,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"High Jump, Men",56023,Alfred Flatow,30247,DNS,,False
+1896 Summer Olympics,1,SWE,Athletics,"Discus Throw, Men",56028,Henrik Sjöberg,76383,AC,,False
+1896 Summer Olympics,1,SWE,Athletics,"Long Jump, Men",56025,Harald Arbin,50347,DNS,,False
+1896 Summer Olympics,1,SWE,Athletics,"Long Jump, Men",56025,Henrik Sjöberg,76383,AC,,False
+1896 Summer Olympics,1,GER,Tennis,"Doubles, Men",44019,John Pius Boland,79,1,Gold,True
+1896 Summer Olympics,1,GER,Tennis,"Doubles, Men",44019,Fritz Traun,162,1,Gold,True
+1896 Summer Olympics,1,GER,Weightlifting,"Unlimited, Two Hands, Men",28511,Carl Schuhmann,70502,=4,,False
+1896 Summer Olympics,1,GER,Wrestling,"Unlimited Class, Greco-Roman, Men",120000,Carl Schuhmann,70502,1,Gold,False
+1896 Summer Olympics,1,GER,Athletics,"800 metres, Men",56011,Kurt Doerry,70207,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"800 metres, Men",56011,Fritz Hofmann,30260,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"800 metres, Men",56011,Fritz Traun,162,3 h1 r1/2,,False
+1896 Summer Olympics,1,GER,Athletics,"400 metres, Men",56006,Fritz Traun,162,DNS,,False
+1896 Summer Olympics,1,GER,Athletics,"400 metres, Men",56006,Kurt Doerry,70207,AC h1 r1/2,,False
+1896 Summer Olympics,1,GER,Tennis,"Singles, Men",44000,Fritz Traun,162,=8,,False
+1896 Summer Olympics,1,GER,Athletics,"400 metres, Men",56006,Fritz Hofmann,30260,4,,False
+1896 Summer Olympics,1,GER,Athletics,"100 metres, Men",56000,Kurt Doerry,70207,AC h1 r1/2,,False
+1896 Summer Olympics,1,GER,Athletics,"100 metres, Men",56000,Fritz Traun,162,3 h3 r1/2,,False
+1896 Summer Olympics,1,GER,Athletics,"100 metres, Men",56000,Fritz Hofmann,30260,2,Silver,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Rope Climbing, Men",70007,Fritz Hofmann,30260,3,Bronze,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Gustav Schuft,30303,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Richard Röstel,30301,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Karl Neukirch,30284,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Fritz Manteuffel,30281,AC,,False
+1896 Summer Olympics,1,GER,Artistic Gymnastics,"Pommelled Horse, Men",70003,Georg Hillmar,30259,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"100 metres, Men",56000,Alfred Flatow,30247,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"Shot Put, Men",56027,Adolphe Grisel,46849,DNS,,False
+1896 Summer Olympics,1,GER,Cycling Track,"12-Hours Race, Men",153004,Joseph Welzenbacher,17156,DNF,,False
+1896 Summer Olympics,1,GER,Cycling Track,"100 kilometres, Men",153003,Joseph Welzenbacher,17156,DNF,,False
+1896 Summer Olympics,1,SWE,Athletics,"High Jump, Men",56023,Harald Arbin,50347,DNS,,False
+1896 Summer Olympics,1,SWE,Athletics,"High Jump, Men",56023,Henrik Sjöberg,76383,4,,False
+1896 Summer Olympics,1,SWE,Athletics,"110 metres Hurdles, Men",56018,Henrik Sjöberg,76383,DNS,,False
+1896 Summer Olympics,1,SWE,Athletics,"110 metres Hurdles, Men",56018,Harald Arbin,50347,DNS,,False
+1896 Summer Olympics,1,SWE,Athletics,"100 metres, Men",56000,Harald Arbin,50347,DNS,,False
+1896 Summer Olympics,1,SWE,Athletics,"100 metres, Men",56000,Henrik Sjöberg,76383,AC h3 r1/2,,False
+1896 Summer Olympics,1,SWE,Artistic Gymnastics,"Horse Vault, Men",70002,Henrik Sjöberg,76383,AC,,False
+1896 Summer Olympics,1,GER,Athletics,"Discus Throw, Men",56028,Carl Schuhmann,70502,DNS,,False
+1896 Summer Olympics,1,GER,Cycling Road,"Road Race, Individual, Men",153005,Anton Gödrich,14614,2,Silver,False
+1896 Summer Olympics,1,GER,Cycling Track,"100 kilometres, Men",153003,Joseph Rosemeyer,16372,DNF,,False
+1896 Summer Olympics,1,GER,Cycling Road,"Road Race, Individual, Men",153005,Bernard Knubel,15099,DNS,,False
+1896 Summer Olympics,1,GER,Cycling Road,"Road Race, Individual, Men",153005,Fritz Manteuffel,30281,DNS,,False
+1896 Summer Olympics,1,GER,Cycling Road,"Road Race, Individual, Men",153005,Joseph Rosemeyer,16372,DNS,,False
+1896 Summer Olympics,1,GER,Cycling Road,"Road Race, Individual, Men",153005,Joseph Welzenbacher,17156,DNS,,False
+1896 Summer Olympics,1,GER,Cycling Track,"Sprint, Men",153001,Joseph Rosemeyer,16372,DNF,,False
+1896 Summer Olympics,1,GER,Cycling Track,"333⅓ metres Time Trial, Men",153000,Theodor Leupolt,15309,=5,,False
+1896 Summer Olympics,1,GER,Cycling Track,"333⅓ metres Time Trial, Men",153000,Joseph Rosemeyer,16372,8,,False
+1896 Summer Olympics,1,GER,Cycling Track,"10,000 metres, Men",153002,Joseph Rosemeyer,16372,4,,False
+1896 Summer Olympics,1,GER,Cycling Track,"100 kilometres, Men",153003,Bernard Knubel,15099,DNF,,False
+1896 Summer Olympics,1,GER,Cycling Track,"100 kilometres, Men",153003,Theodor Leupolt,15309,DNF,,False
+1896 Summer Olympics,1,GER,Cycling Road,"Road Race, Individual, Men",153005,Theodor Leupolt,15309,DNS,,False
+1896 Summer Olympics,1,FRA,Athletics,"Discus Throw, Men",56028,Adolphe Grisel,46849,AC,,False
+1896 Summer Olympics,1,GRE,Swimming,"500 metres Freestyle, Men",4401,V. Chatzis,922157,DNS,,False
+1896 Summer Olympics,1,FRA,Cycling Road,"Road Race, Individual, Men",153005,Léon Flameng,14328,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"Discus Throw, Men",56028,Bob Garrett,78439,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"Discus Throw, Men",56028,Charles Vanoni,891621,DNS,,False
+1896 Summer Olympics,1,USA,Cycling Road,"Road Race, Individual, Men",153005,A. Johnson,2303302,DNS,,False
+1896 Summer Olympics,1,USA,Cycling Road,"Road Race, Individual, Men",153005,B. MacDonald,2303304,DNS,,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Horse Vault, Men",70002,Gyula Kakas,30380,AC,,False
+1896 Summer Olympics,1,USA,Athletics,"100 metres, Men",56000,Frank Lane,78676,=3,Bronze,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Parallel Bars, Men",70006,Gyula Kakas,30380,AC,,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Parallel Bars, Men",70006,Dezső Wein,71333,AC,,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Horizontal Bar, Men",70005,Gyula Kakas,30380,AC,,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Horizontal Bar, Men",70005,Dezső Wein,71333,AC,,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Rings, Men",70004,Dezső Wein,71333,AC,,False
+1896 Summer Olympics,1,USA,Athletics,"Shot Put, Men",56027,Charles Vanoni,891621,DNS,,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Pommelled Horse, Men",70003,Gyula Kakas,30380,AC,,False
+1896 Summer Olympics,1,HUN,Athletics,"100 metres, Men",56000,Alajos Szokoly,71310,=3,Bronze,False
+1896 Summer Olympics,1,HUN,Athletics,"100 metres, Men",56000,Leonidasz Manno,922407,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"100 metres, Men",56000,István Zachar,922410,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"100 metres, Men",56000,Nándor Dáni,71127,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"400 metres, Men",56006,Leonidasz Manno,922407,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"400 metres, Men",56006,Nándor Dáni,71127,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"800 metres, Men",56011,Nándor Dáni,71127,2,Silver,False
+1896 Summer Olympics,1,HUN,Athletics,"800 metres, Men",56011,István Zaborszky,922409,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"1,500 metres, Men",56016,Gyula Malcsiner,922406,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"1,500 metres, Men",56016,Nándor Dáni,71127,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Marathon, Men",56017,Gyula Kellner,71190,3,Bronze,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Pommelled Horse, Men",70003,Dezső Wein,71333,AC,,False
+1896 Summer Olympics,1,USA,Athletics,"Shot Put, Men",56027,Ellery Clark,78231,AC,,False
+1896 Summer Olympics,1,USA,Athletics,"Shot Put, Men",56027,Bob Garrett,78439,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"Triple Jump, Men",56026,James B. Connolly,78257,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"100 metres, Men",56000,Tom Curtis,78290,1 h2 r1/2,,False
+1896 Summer Olympics,1,USA,Athletics,"100 metres, Men",56000,Ralph Derr,922412,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"100 metres, Men",56000,Charles Vanoni,891621,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"400 metres, Men",56006,Tom Burke,78175,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"400 metres, Men",56006,Herbert Jamison,78596,2,Silver,False
+1896 Summer Olympics,1,USA,Athletics,"800 metres, Men",56011,Tom Burke,78175,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"1,500 metres, Men",56016,Arthur C. Blake,78121,2,Silver,False
+1896 Summer Olympics,1,USA,Athletics,"Marathon, Men",56017,Arthur C. Blake,78121,DNF,,False
+1896 Summer Olympics,1,USA,Athletics,"110 metres Hurdles, Men",56018,Tom Curtis,78290,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"110 metres Hurdles, Men",56018,Bill Hoyt,78578,2 h2 r1/2,,False
+1896 Summer Olympics,1,USA,Athletics,"110 metres Hurdles, Men",56018,Fred Lord,922414,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"110 metres Hurdles, Men",56018,James B. Connolly,78257,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"110 metres Hurdles, Men",56018,Charles Vanoni,891621,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"High Jump, Men",56023,Ellery Clark,78231,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"High Jump, Men",56023,Bob Garrett,78439,=2,Silver,False
+1896 Summer Olympics,1,USA,Athletics,"High Jump, Men",56023,James B. Connolly,78257,=2,Silver,False
+1896 Summer Olympics,1,USA,Athletics,"High Jump, Men",56023,J. Stanley Edwards,922413,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"Pole Vault, Men",56024,Bill Hoyt,78578,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"Pole Vault, Men",56024,Albert Tyler,79145,2,Silver,False
+1896 Summer Olympics,1,USA,Athletics,"Pole Vault, Men",56024,Charles Vanoni,891621,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"Long Jump, Men",56025,Ellery Clark,78231,1,Gold,False
+1896 Summer Olympics,1,USA,Athletics,"Long Jump, Men",56025,Bob Garrett,78439,2,Silver,False
+1896 Summer Olympics,1,USA,Athletics,"Long Jump, Men",56025,James B. Connolly,78257,3,Bronze,False
+1896 Summer Olympics,1,USA,Athletics,"Long Jump, Men",56025,Ralph Derr,922412,DNS,,False
+1896 Summer Olympics,1,USA,Athletics,"Long Jump, Men",56025,Tom Curtis,78290,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Marathon, Men",56017,Gyula Malcsiner,922406,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"110 metres Hurdles, Men",56018,Alajos Szokoly,71310,AC h1 r1/2,,False
+1896 Summer Olympics,1,HUN,Artistic Gymnastics,"Horse Vault, Men",70002,Dezső Wein,71333,AC,,False
+1896 Summer Olympics,1,HUN,Athletics,"High Jump, Men",56023,Gyula Kakas,30380,DNS,,False
+1896 Summer Olympics,1,HUN,Swimming,"500 metres Freestyle, Men",4401,Ferenc Reischl,922221,DNS,,False
+1896 Summer Olympics,1,FRA,Cycling Road,"Road Race, Individual, Men",153005,Paul Masson,15526,DNS,,False
+1896 Summer Olympics,1,FRA,Cycling Road,"Road Race, Individual, Men",153005, Hatté,2303301,DNS,,False
+1896 Summer Olympics,1,FRA,Cycling Road,"Road Race, Individual, Men",153005,Gustave de Lafreté,2303303,DNS,,False
+1896 Summer Olympics,1,FRA,Cycling Track,"Sprint, Men",153001,Paul Masson,15526,1,Gold,False
+1896 Summer Olympics,1,FRA,Cycling Track,"Sprint, Men",153001,Léon Flameng,14328,3,Bronze,False
+1896 Summer Olympics,1,FRA,Cycling Track,"333⅓ metres Time Trial, Men",153000,Paul Masson,15526,1,Gold,False
+1896 Summer Olympics,1,FRA,Cycling Track,"333⅓ metres Time Trial, Men",153000,Léon Flameng,14328,=5,,False
+1896 Summer Olympics,1,FRA,Cycling Track,"10,000 metres, Men",153002,Paul Masson,15526,1,Gold,False
+1896 Summer Olympics,1,FRA,Cycling Track,"10,000 metres, Men",153002,Léon Flameng,14328,2,Silver,False
+1896 Summer Olympics,1,FRA,Cycling Track,"100 kilometres, Men",153003,Léon Flameng,14328,1,Gold,False
+1896 Summer Olympics,1,FRA,Fencing,"Foil, Individual, Men",72000,Eugène Henry Gravelotte,21879,1,Gold,False
+1896 Summer Olympics,1,FRA,Fencing,"Foil, Individual, Men",72000,Henri Callot,21767,2,Silver,False
+1896 Summer Olympics,1,FRA,Fencing,"Foil, Individual, Men",72000,Henri de Laborde,21805,=5,,False
+1896 Summer Olympics,1,FRA,Fencing,"Foil, Individual, Men",72000,Jean-Joseph Renaud,22020,DNS,,False
+1896 Summer Olympics,1,FRA,Fencing,"Foil, Masters, Individual, Men",72029,Joanni Perronet,21998,2,Silver,False
+1896 Summer Olympics,1,FRA,Fencing,"Sabre, Individual, Men",923213,Eugène Henry Gravelotte,21879,DNS,,False
+1896 Summer Olympics,1,FRA,Tennis,"Doubles, Men",44019,J. Defert,13,DNS,,True
+1896 Summer Olympics,1,FRA,Tennis,"Singles, Men",44000,André Vacherot,1805075,DNS,,False
+1896 Summer Olympics,1,FRA,Tennis,"Singles, Men",44000,J. Defert,13,=8,,False
+1896 Summer Olympics,1,HUN,Athletics,"110 metres Hurdles, Men",56018,Pál Péthy,922408,DNS,,False
+1896 Summer Olympics,1,FRA,Tennis,"Doubles, Men",44019,André Vacherot,1805075,DNS,,True
+1896 Summer Olympics,1,FRA,Swimming,"1,200 metres Freestyle, Men",4402,Adolphe Grisel,46849,DNS,,False
+1896 Summer Olympics,1,HUN,Swimming,"500 metres Freestyle, Men",4401,Alfréd Hajós,48186,DNS,,False
+1896 Summer Olympics,1,FRA,Swimming,"500 metres Freestyle, Men",4401,Frantz Reichel,68474,DNS,,False
+1896 Summer Olympics,1,FRA,Swimming,"100 metres Freestyle, Men",4400,Frantz Reichel,68474,DNS,,False
+1896 Summer Olympics,1,HUN,Wrestling,"Unlimited Class, Greco-Roman, Men",120000,Momcsilló Tapavicza,226,=4,,False
+1896 Summer Olympics,1,HUN,Weightlifting,"Unlimited, Two Hands, Men",28511,Momcsilló Tapavicza,226,6,,False
+1896 Summer Olympics,1,HUN,Tennis,"Singles, Men",44000,Momcsilló Tapavicza,226,=3,Bronze,False
+1896 Summer Olympics,1,FRA,Swimming,"100 metres Freestyle, Men",4400,Adolphe Grisel,46849,DNS,,False
+1896 Summer Olympics,1,FRA,Shooting,"Military Rifle, 200 metres, Men",51503,Albin Lermusiaux,42186,AC,,False
+1896 Summer Olympics,1,FRA,Swimming,"500 metres Freestyle, Men",4401,Adolphe Grisel,46849,DNS,,False
+1896 Summer Olympics,1,HUN,Swimming,"100 metres Freestyle, Men",4400,Ferenc Reischl,922221,DNS,,False
+1896 Summer Olympics,1,HUN,Swimming,"1,200 metres Freestyle, Men",4402,Alfréd Hajós,48186,1,Gold,False
+1896 Summer Olympics,1,HUN,Fencing,"Sabre, Individual, Men",923213,István Kisgeszéni Szabó,2303652,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Long Jump, Men",56025,Pál Péthy,922408,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Pole Vault, Men",56024,Gyula Kakas,30380,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Pole Vault, Men",56024,Momcsilló Tapavicza,226,DNS,,False
+1896 Summer Olympics,1,HUN,Swimming,"100 metres Freestyle, Men",4400,Alfréd Hajós,48186,1,Gold,False
+1896 Summer Olympics,1,HUN,Athletics,"High Jump, Men",56023,Dezső Wein,71333,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"High Jump, Men",56023,Alajos Szokoly,71310,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Pole Vault, Men",56024,Dezső Wein,71333,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Long Jump, Men",56025,Momcsilló Tapavicza,226,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Pole Vault, Men",56024,Alajos Szokoly,71310,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Shot Put, Men",56027,Dezső Wein,71333,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Shot Put, Men",56027,Momcsilló Tapavicza,226,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Long Jump, Men",56025,Alajos Szokoly,71310,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Shot Put, Men",56027,Pál Péthy,922408,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Triple Jump, Men",56026,Pál Péthy,922408,DNS,,False
+1896 Summer Olympics,1,HUN,Athletics,"Triple Jump, Men",56026,Alajos Szokoly,71310,4,,False
+1896 Summer Olympics,1,HUN,Athletics,"Long Jump, Men",56025,Nándor Dáni,71127,DNS,,False

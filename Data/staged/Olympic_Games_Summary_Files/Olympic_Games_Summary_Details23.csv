@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1984 Winter Olympics,42,/editions/42,1984,Sarajevo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/YUG.png,YUG, 8 February,19 February,7 – 19 February,
+1984 Summer Olympics,21,/editions/21,1984,Los Angeles,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,28 July,12 August, 6 July – 12 August,

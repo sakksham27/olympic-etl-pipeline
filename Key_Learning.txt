@@ -1,0 +1,146 @@
+File Name: Olympic_Country_Profiles.csv
+Columns & Dtypes: 
+  0. noc: object
+  1. country: object
+Numerical Columns: []
+Non-Numerical Columns: ['noc', 'country']
+Size of largest element in each columns: 
+  0. noc: {element: AFG} & {length: 3}
+  1. country: {element: Democratic People's ...} & {length: 37}
+
+File Name: Olympic_Athlete_Biography.csv
+Columns & Dtypes: 
+  0. athlete_id: int64
+  1. name: int64
+  2. sex: int64
+  3. born: int64
+  4. height: int64
+  5. weight: int64
+  6. country: int64
+  7. country_noc: int64
+  8. description: int64
+  9. special_notes: int64
+Numerical Columns: ['athlete_id', 'height']
+Non-Numerical Columns: ['name', 'sex', 'born', 'weight', 'country', 'country_noc', 'description', 'special_notes']
+Size of largest element in each columns: 
+  0. athlete_id: {element: 22000000} & {length: 8}
+  1. name: {element: Georges, Marquis de ...} & {length: 49}
+  2. sex: {element: Female} & {length: 6}
+  3. born: {element: in ?, Chaharmahal-o-...} & {length: 62}
+  4. height: {element: 226.0} & {length: 5}
+  5. weight: {element: 124, 131} & {length: 8}
+  6. country: {element:  Independent Olympic...} & {length: 79}
+  7. country_noc: {element: BUL} & {length: 3}
+  8. description: {element: He was born “Wa-tho-...} & {length: 9539}
+  9. special_notes: {element: Mother of Victoria S...} & {length: 6169}
+
+File Name: Olympic_Athlete_Event_Details.csv
+Columns & Dtypes: 
+  0. edition: object
+  1. edition_id: object
+  2. country_noc: object
+  3. sport: object
+  4. event: object
+  5. result_id: object
+  6. athlete: object
+  7. athlete_id: object
+  8. pos: object
+  9. medal: object
+  10. isTeamSport: object
+Numerical Columns: ['edition_id', 'result_id', 'athlete_id']
+Non-Numerical Columns: ['edition', 'country_noc', 'sport', 'event', 'athlete', 'pos', 'medal', 'isTeamSport']
+Size of largest element in each columns: 
+  0. edition: {element: 1956 Equestrian Olym...} & {length: 24}
+  1. edition_id: {element: 62} & {length: 2}
+  2. country_noc: {element: ANZ} & {length: 3}
+  3. sport: {element: Short Track Speed Sk...} & {length: 25}
+  4. event: {element: 26th Federal Festiva...} & {length: 137}
+  5. result_id: {element: 90016770} & {length: 8}
+  6. athlete: {element: Georges, Marquis de ...} & {length: 49}
+  7. athlete_id: {element: 22000000} & {length: 8}
+  8. pos: {element: =5 p13 r1/4} & {length: 11}
+  9. medal: {element: Bronze} & {length: 6}
+  10. isTeamSport: {element: False} & {length: 5}
+
+File Name: Olympic_Event_Results.csv
+Columns & Dtypes: 
+  0. result_id: int64
+  1. event_title: int64
+  2. edition: int64
+  3. edition_id: int64
+  4. sport: int64
+  5. sport_url: int64
+  6. result_date: int64
+  7. result_location: int64
+  8. result_participants: int64
+  9. result_format: int64
+  10. result_detail: int64
+  11. result_description: int64
+Numerical Columns: ['result_id', 'edition_id']
+Non-Numerical Columns: ['event_title', 'edition', 'sport', 'sport_url', 'result_date', 'result_location', 'result_participants', 'result_format', 'result_detail', 'result_description']
+Size of largest element in each columns: 
+  0. result_id: {element: 90016770} & {length: 8}
+  1. event_title: {element: 26th Federal Festiva...} & {length: 137}
+  2. edition: {element: 1906  Intercalated G...} & {length: 24}
+  3. edition_id: {element: 62} & {length: 2}
+  4. sport: {element: Short Track Speed Sk...} & {length: 25}
+  5. sport_url: {element: /editions/26/sports/...} & {length: 23}
+  6. result_date: {element: 18 – 19 July 1976 — ...} & {length: 82}
+  7. result_location: {element: Empire Stadium, Wemb...} & {length: 382}
+  8. result_participants: {element: 129 from 28 countrie...} & {length: 21}
+  9. result_format: {element: Couples were ranked ...} & {length: 1181}
+  10. result_detail: {element: Course Name: Secret ...} & {length: 383}
+  11. result_description: {element: The modern pentathlo...} & {length: 14594}
+
+File Name: Olympic_Medal_Tally_History.csv
+Columns & Dtypes: 
+  0. edition: object
+  1. edition_id: object
+  2. year: object
+  3. country: object
+  4. country_noc: object
+  5. gold: object
+  6. silver: object
+  7. bronze: object
+  8. total: object
+Numerical Columns: ['edition_id', 'year', 'gold', 'silver', 'bronze', 'total']
+Non-Numerical Columns: ['edition', 'country', 'country_noc']
+Size of largest element in each columns: 
+  0. edition: {element: 1896 Summer Olympics...} & {length: 20}
+  1. edition_id: {element: 62} & {length: 2}
+  2. year: {element: 2022} & {length: 4}
+  3. country: {element: Democratic People's ...} & {length: 37}
+  4. country_noc: {element: USA} & {length: 3}
+  5. gold: {element: 83} & {length: 2}
+  6. silver: {element: 85} & {length: 2}
+  7. bronze: {element: 83} & {length: 2}
+  8. total: {element: 248} & {length: 3}
+
+File Name: Olympic_Games_Summary.csv
+Columns & Dtypes: 
+  0. edition: object
+  1. edition_id: object
+  2. edition_url: object
+  3. year: object
+  4. city: object
+  5. country_flag_url: object
+  6. country_noc: object
+  7. start_date: object
+  8. end_date: object
+  9. competition_date: object
+  10. isHeld: object
+Numerical Columns: ['edition_id', 'year']
+Non-Numerical Columns: ['edition', 'edition_url', 'city', 'country_flag_url', 'country_noc', 'start_date', 'end_date', 'competition_date', 'isHeld']
+Size of largest element in each columns: 
+  0. edition: {element: 1896 Summer Olympics...} & {length: 20}
+  1. edition_id: {element: 372} & {length: 3}
+  2. edition_url: {element: /editions/372} & {length: 13}
+  3. year: {element: 2032} & {length: 4}
+  4. city: {element: Milano-Cortina d'Amp...} & {length: 24}
+  5. country_flag_url: {element: https://olympedia-fl...} & {length: 61}
+  6. country_noc: {element: GRE} & {length: 3}
+  7. start_date: {element: 17 September} & {length: 12}
+  8. end_date: {element:  8 August 2021} & {length: 14}
+  9. competition_date: {element: 22 November –  8 Dec...} & {length: 25}
+  10. isHeld: {element: Not held due to war} & {length: 19}
+

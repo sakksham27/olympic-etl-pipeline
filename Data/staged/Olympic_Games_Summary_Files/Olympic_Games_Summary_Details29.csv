@@ -1,0 +1,2 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+2000 Summer Olympics,25,/editions/25,2000,Sydney,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUS.png,AUS,15 September, 1 October,13 September –  1 October,

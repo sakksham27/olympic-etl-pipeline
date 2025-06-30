@@ -1,0 +1,2 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+2020 Summer Olympics,61,/editions/61,2020,Tokyo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/JPN.png,JPN,23 July 2021, 8 August 2021,21 July –  8 August 2021,

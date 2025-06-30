@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1944 Summer Olympics,52,/editions/52,1944,London,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GBR.png,GBR,,,—,Not held due to war
+1944 Winter Olympics,56,/editions/56,1944,Cortina d'Ampezzo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,,,—,Not held due to war

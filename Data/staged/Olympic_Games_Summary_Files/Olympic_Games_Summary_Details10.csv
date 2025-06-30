@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1932 Summer Olympics,10,/editions/10,1932,Los Angeles,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,30 July,14 August,30 July – 14 August,
+1932 Winter Olympics,31,/editions/31,1932,Lake Placid,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA, 4 February,13 February,4 – 15 February,

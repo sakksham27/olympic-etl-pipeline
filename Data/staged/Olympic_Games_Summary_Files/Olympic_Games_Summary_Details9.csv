@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1928 Summer Olympics,9,/editions/9,1928,Amsterdam,https://olympedia-flags.s3.eu-central-1.amazonaws.com/NED.png,NED,28 July,12 August,17 May – 12 August,
+1928 Winter Olympics,30,/editions/30,1928,Sankt Moritz,https://olympedia-flags.s3.eu-central-1.amazonaws.com/SUI.png,SUI,11 February,17 February,11 – 19 February,

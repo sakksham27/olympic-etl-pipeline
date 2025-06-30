@@ -1,0 +1,3 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,start_date,end_date,competition_date,isHeld
+1972 Winter Olympics,39,/editions/39,1972,Sapporo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/JPN.png,JPN, 3 February,13 February,3 – 13 February,
+1972 Summer Olympics,18,/editions/18,1972,München,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRG.png,FRG,26 August,11 September,26 August – 11 September,
