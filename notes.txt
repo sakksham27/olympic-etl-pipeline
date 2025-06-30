@@ -173,3 +173,10 @@ with DAG(
     parsed_data = parse_files(file_paths)
     load_success = load_to_db(parsed_data)
     move_files(file_paths, load_success)  # Pass original file_paths and load_success status
+
+Improvements to make in code: 
+1. Better comments, add docstrings
+2. Improve error handling and checking
+3. Implement proper logging [VERY VERY VERY IMPORTANT]
+4. work on implementing testing, alerts, monitoring and maintenance of the pipelines. [VERY VERY VERY IMPORTANT]
+5. In one file I changed the code logic from list of tuples to list of lists, revert that.
