@@ -4,7 +4,7 @@ Olympic Athlete Event Details — Data Quality Checks
 ======================================================
 */
 
--- Preview the full dataset for initial inspection
+-- Data Preview
 SELECT *
 FROM bronze.olympic_athlete_event_details;
 
