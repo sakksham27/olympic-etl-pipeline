@@ -4,7 +4,7 @@ Olympic Athlete Event Details — Data Quality Checks
 ======================================================
 */
 
--- Data Preview
+-- Preview the full dataset for initial inspection
 SELECT *
 FROM bronze.olympic_athlete_event_details;
 
@@ -20,6 +20,11 @@ Validate 'edition' column for unexpected characters
 SELECT edition 
 FROM bronze.olympic_athlete_event_details
 WHERE edition !~ '^[a-zA-Z0-9 ]+$';
+
+-- Ensure Trim is not needed
+SELECT edition, TRIM(edition)
+FROM bronze.olympic_athlete_event_details
+WHERE TRIM(edition) != edition;
 
 /* 
 Validate 'edition_id' format
