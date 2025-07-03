@@ -4,16 +4,18 @@ Olympic Athlete Biography — Data Quality Checks
 ==================================================
 */
 
--- Data Sample preview
+-- Preview sample data for initial inspection
 SELECT * 
 FROM bronze.olympic_athlete_biography
 LIMIT 100;
 
--- Check if athlete_id is purely numeric (will error if not)
+-- Check if 'athlete_id' contains only numeric values
+-- Note: Will raise an error if any value is non-numeric
 SELECT athlete_id + 1 AS numeric_check
 FROM bronze.olympic_athlete_biography;
 
--- Check for name formatting issues (extra spaces, wrong casing)
+-- Check for inconsistencies in 'name' formatting
+-- Goal: Ensure proper casing and remove extra whitespace
 SELECT 
   name, 
   INITCAP(name) AS capitalized_name, 
@@ -23,7 +25,8 @@ WHERE
   name != INITCAP(name) OR
   name != TRIM(name);
 
--- Detect alphanumeric vs non-alphanumeric names
+-- Categorize 'name' values based on character type
+-- Expectation: Should be alphanumeric only
 SELECT 
   CASE 
     WHEN name ~ '^[A-Za-z0-9]+$' THEN 'Alphanumeric'
@@ -33,32 +36,35 @@ SELECT
 FROM bronze.olympic_athlete_biography
 GROUP BY name_type;
 
--- Null check for name
+-- Check for missing values in 'name'
 SELECT name
 FROM bronze.olympic_athlete_biography
 WHERE name IS NULL;
 
 -- ===============================================
--- Sex column checks
+-- 'Sex' column validation
+-- ===============================================
 
--- Trim test
+-- Identify values with leading/trailing whitespace
 SELECT sex
 FROM bronze.olympic_athlete_biography
 WHERE sex != TRIM(sex);
 
--- Capitalization check
+-- Check for proper capitalization (e.g., 'Male', 'Female')
 SELECT sex, INITCAP(sex)
 FROM bronze.olympic_athlete_biography
 WHERE sex = INITCAP(sex);
 
--- Null check
+-- Check for missing values in 'sex'
 SELECT sex 
 FROM bronze.olympic_athlete_biography
 WHERE sex IS NULL;
 
 -- ===============================================
--- Born column: normalize various date formats
-
+-- 'Born' column normalization
+-- Supports flexible date formats (e.g., 'June 2000', '2000', '14 July 1989')
+-- Handles numeric-only or special character inconsistencies
+-- ===============================================
 SELECT born, 
   CASE 
     WHEN LOWER(born) ~ '^[A-Za-z]{3,9} \d{4}$' THEN 
@@ -78,16 +84,19 @@ SELECT born,
 FROM bronze.olympic_athlete_biography;
 
 -- ===============================================
--- Height: check for non-numeric entries
-
+-- 'Height' column check
+-- Validate that all values are numeric or decimal numbers
+-- ===============================================
 SELECT height 
 FROM bronze.olympic_athlete_biography
 WHERE height::text !~ '^[0-9.]+$';
 
 -- ===============================================
--- Weight: clean and normalize
+-- 'Weight' column validation and normalization
+-- Handles both clean numeric values and ranges (e.g., '55-65')
+-- ===============================================
 
--- Preview unclean weights
+-- Identify and preview unclean 'weight' entries
 SELECT weight,
   CASE 
     WHEN weight !~ '^[0-9.]+$' THEN TRIM(weight::text)
@@ -95,7 +104,7 @@ SELECT weight,
   END AS cleaned_weight
 FROM bronze.olympic_athlete_biography;
 
--- Normalize weights with ranges like "55-65"
+-- Normalize weights by averaging min and max in ranges
 SELECT 
   b.weight, 
   CASE 
@@ -110,32 +119,33 @@ LEFT JOIN LATERAL (
 ) m ON true;
 
 -- ===============================================
--- Country column: whitespace and digit validation
+-- 'Country' column quality checks
+-- ===============================================
 
--- Trim check
+-- Check for extra spaces in 'country' values
 SELECT country, TRIM(country)
 FROM bronze.olympic_athlete_biography
 WHERE country != TRIM(country);
 
--- Detect invalid country values (only numbers or spaces)
+-- Detect clearly invalid entries (e.g., only numbers/spaces)
 SELECT country
 FROM bronze.olympic_athlete_biography
 WHERE TRIM(country) ~ '^[0-9 ]+$';
 
 -- ===============================================
--- NOC (country_noc): should be exactly 3 characters
+-- 'country_noc' (3-letter code) format validation
+-- ===============================================
 SELECT country_noc
 FROM bronze.olympic_athlete_biography
 WHERE LENGTH(country_noc) != 3;
 
--- ======================================================
--- Final transformation for olympic_athlete_biography
--- ======================================================
-
+-- =============================================================
+-- Final Transformation — Cleaned Athlete Biography Table
+-- =============================================================
 SELECT 
-athlete_id,
-INITCAP(TRIM(name)) AS name,
-CASE 
+  athlete_id,
+  INITCAP(TRIM(name)) AS name,
+  CASE 
     WHEN LOWER(born) ~ '^[A-Za-z]{3,9} \d{4}$' THEN 
       TO_DATE(born, 'Month YYYY')::text
     WHEN LOWER(born) ~ '^\d{4}$' THEN  
@@ -150,18 +160,17 @@ CASE
     ELSE 
       TO_DATE(born, 'DD Month YYYY')::text
   END AS born,
-height,
-CASE 
+  height,
+  CASE 
     WHEN b.weight !~ '^[0-9.]+$' THEN 
-      ROUND(((m.matches)[1]::numeric + (m.matches)[3]::numeric)/ 2) 
+      ROUND(((m.matches)[1]::numeric + (m.matches)[3]::numeric) / 2) 
     ELSE 
       b.weight::numeric
   END AS weight,
-TRIM(country) AS country,
-country_noc,
-description
-FROM bronze.olympic_athlete_biography as b
+  TRIM(country) AS country,
+  country_noc,
+  description
+FROM bronze.olympic_athlete_biography AS b
 LEFT JOIN LATERAL (
   SELECT regexp_matches(TRIM(b.weight::text), '(\d+)([^a-zA-Z0-9])(\d+)', 'g') AS matches
 ) m ON true;
-
