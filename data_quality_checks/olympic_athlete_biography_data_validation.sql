@@ -128,8 +128,10 @@ SELECT country_noc
 FROM bronze.olympic_athlete_biography
 WHERE LENGTH(country_noc) != 3;
 
--- ================================================
+-- ======================================================
 -- Final transformation for olympic_athlete_biography
+-- ======================================================
+
 SELECT 
 athlete_id,
 INITCAP(TRIM(name)) AS name,
